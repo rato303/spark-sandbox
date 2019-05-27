@@ -1,0 +1,18 @@
+# Java
+*.class
+*.jar
+*.war
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# Gradle
+.gradle
+!gradle-wrapper.jar
+
+# Build
+out
+build
+bin
