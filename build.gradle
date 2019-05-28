@@ -9,6 +9,8 @@ targetCompatibility = '1.8'
 dependencies {
   compile 'com.sparkjava:spark-core:2.8.0'
   compile 'com.google.code.gson:gson:2.8.5'
+  compile 'com.google.inject:guice:4.2.2'
+  
   testImplementation 'junit:junit:4.12'
 }
 
